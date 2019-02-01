@@ -1,11 +1,19 @@
 {
   "name": "typescript-cucumber-coverage-example",
+  "version": "0.1.0",
   "author": "Matthew Ng",
   "description": "Simple typescript BBD testing with cucumber-js and istanbul",
   "license": "MIT",
   "repository": {
-
+    "type": "git",
+    "url": "https://github.com/mng-au/typescript-cucumber-coverage-example"
   },
+  "keywords": [
+    "typescript",
+    "cucumber",
+    "istanbul",
+    "bdd"
+  ],
   "dependencies": {},
   "devDependencies": {
     "@types/chai": "^4.1.7",
